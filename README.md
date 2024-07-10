@@ -1,7 +1,7 @@
 
 # Diabetes Prediction using SVM
 
-Building a system that can predict whether a person has diabetes or not with the help of Machine Learning. This project is done in Python. In this project, we use Support Vector Machine model for the prediction.
+Leveraging Python libraries like scikit-learn, I built a machine learning model using Support Vector Machines (SVM) to predict diabetes. This project involved analyzing medical datasets in Python to identify key factors associated with diabetes risk. The model aimed to identify individuals whether they have diabetes or not.
 
 # Support Vector Machine
 
