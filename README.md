@@ -31,15 +31,8 @@ pip install numpy pandas scikit-learn
 
 ### Clone the repository:
 
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
-
-### Run the Python script:
-
-python your_script.py
-
-## Code Overview
-The Python script (your_script.py) includes the following components:
+git clone https://github.com/MohammadValeed/Diabetes-Prediction-using-Machine-Learning-with-Python.git
+cd Diabetes-Prediction-using-Machine-Learning-with-Python
 
 ### Importing Libraries:
 
